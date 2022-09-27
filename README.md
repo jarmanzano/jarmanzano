@@ -10,17 +10,5 @@ Desert Pyramid Page: Shows an image of a desert pyramid, where you can find them
 Homepage Wireframe: https://wireframe.cc/3nU1gU
 Structure Page Wireframe: https://wireframe.cc/rgpCff
 
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Mineture</title>
-  <meta charset="UTF-8">
-  <meta name="description" content="Minecraft Structures">
-  <meta name="keywords" content="minecraft structures, minecraft, structures">
-  <meta name="author" content="Jan Azriel R. Manzano">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
 
-</html>
-  
 
