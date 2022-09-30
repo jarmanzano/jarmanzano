@@ -9,6 +9,7 @@ Desert Pyramid Page: Shows an image of a desert pyramid, where you can find them
 
 Homepage Wireframe: https://wireframe.cc/3nU1gU
 Structure Page Wireframe: https://wireframe.cc/rgpCff
+References Wireframe: https://wireframe.cc/Mp4qS8
 
 
 
