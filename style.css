@@ -1,0 +1,16 @@
+.sr{
+  font-family: monospace;
+  top:200m;
+}
+
+body > p, img{
+  font-family: sans-serif;
+  text-align: justify;
+  border:20px black;
+  padding: 10px;
+}
+
+img{
+  width: 250px;
+  height: 250px;
+}
