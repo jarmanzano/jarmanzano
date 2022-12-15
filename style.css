@@ -85,3 +85,40 @@ img{
 article{
   font-family:Verdana,sans-serif;
 }
+
+
+.twitter {
+	background: url('images/icon.png') no-repeat -296px -91px;
+	width: 33px;
+	height: 33px;
+}
+
+.twitter:hover{
+	background: url('images/icon.png') no-repeat -296px -16px;
+	width: 33px;
+	height: 33px;
+}
+
+.reddit{
+	background: url('images/icon.png') no-repeat -412px -91px;
+	width: 33px;
+	height: 33px;
+}
+
+.reddit:hover{
+	background: url('images/icon.png') no-repeat -412px -16px;
+	width: 33px;
+	height: 33px;
+}
+
+.facebook{
+	background: url('images/icon.png') no-repeat -182px -91px;
+	width: 33px;
+	height: 33px;
+}
+
+.facebook:hover{
+	background: url('images/icon.png') no-repeat -182px -17px;
+	width: 33px;
+	height: 33px;
+}

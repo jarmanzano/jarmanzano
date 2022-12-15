@@ -1,6 +1,7 @@
 body{
   background:#323332;
   color:lavenderblush;
+  font-family:'Courier New', Courier, monospace;
 }
 
 .bg{
@@ -22,5 +23,6 @@ body{
   text-align:center;
   font-family:Georgia, 'Times New Roman', Times, serif;
 }
+
 
 
