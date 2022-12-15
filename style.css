@@ -88,36 +88,54 @@ article{
 
 
 .twitter {
+  position:relative;
+  overflow:hidden;
+  padding:5px;
 	background: url('images/icon.png') no-repeat -296px -91px;
 	width: 33px;
 	height: 33px;
 }
 
 .twitter:hover{
+  position:relative;
+  overflow:hidden;
+  padding:5px;
 	background: url('images/icon.png') no-repeat -296px -16px;
 	width: 33px;
 	height: 33px;
 }
 
 .reddit{
+  position:relative;
+  overflow:hidden;
+  padding:5px;
 	background: url('images/icon.png') no-repeat -412px -91px;
 	width: 33px;
 	height: 33px;
 }
 
 .reddit:hover{
+  position:relative;
+  overflow:hidden;
+  padding:5px;
 	background: url('images/icon.png') no-repeat -412px -16px;
 	width: 33px;
 	height: 33px;
 }
 
 .facebook{
+  position:relative;
+  overflow:hidden;
+  padding:5px;
 	background: url('images/icon.png') no-repeat -182px -91px;
 	width: 33px;
 	height: 33px;
 }
 
 .facebook:hover{
+  position:relative;
+  overflow:hidden;
+  padding:5px;
 	background: url('images/icon.png') no-repeat -182px -17px;
 	width: 33px;
 	height: 33px;
