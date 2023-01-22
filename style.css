@@ -1,3 +1,8 @@
+body {
+    background: #323332;
+    color: white;
+}
+
 .bg{
   position: relative;
   text-align: center;
@@ -139,4 +144,9 @@ article{
 	background: url('images/icon.png') no-repeat -182px -17px;
 	width: 33px;
 	height: 33px;
+}
+
+footer{
+  font-size:10px;
+  color:black;
 }

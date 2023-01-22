@@ -1,21 +1,12 @@
-
 body{
-  background:#323332;
-  color:lavenderblush;
-  font-family:'Courier New', Courier, monospace;
+  background:#511515; 
+  font-family:monospace;
 }
+
 
 .bg{
+  position:relative;
   overflow:hidden;
-}
-
-.title{
-  text-align:center;
-}
-
-.description{
-  text-align:center;
-  font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 .topnav{
@@ -67,9 +58,11 @@ body{
   }
 }
 
-.loot:hover{
-  transform:rotate(1800deg);
-}
+.description{
+  text-align:center;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  overflow:hidden;
+} 
 
 .audio{
   text-align:center;
@@ -132,4 +125,4 @@ body{
 footer{
   size:10px;
   color:￼￼black;
-}
+    }

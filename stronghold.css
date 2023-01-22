@@ -1,21 +1,11 @@
-
 body{
-  background:#323332;
-  color:lavenderblush;
-  font-family:'Courier New', Courier, monospace;
+  background:#b4b46b;
+  color:￼￼antiquewhite;
 }
 
 .bg{
+  position:relative;
   overflow:hidden;
-}
-
-.title{
-  text-align:center;
-}
-
-.description{
-  text-align:center;
-  font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 .topnav{
@@ -65,6 +55,12 @@ body{
   .topnav input[type=text] {
     border: 1px solid #ccc;
   }
+} 
+
+.description{
+  text-align:center;
+  font-family:'Times New Roman', Times, serif;
+  overflow:hidden;
 }
 
 .loot:hover{
@@ -133,3 +129,8 @@ footer{
   size:10px;
   color:￼￼black;
 }
+
+
+
+
+  
